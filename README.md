@@ -1,2 +1,2 @@
 # super-duper-xip
-Future finance platform for South Africans
+African Future finance platform
