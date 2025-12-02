@@ -16,6 +16,7 @@ sqlalchemy==2.0.25
 anthropic==0.18.1
 instructor==0.6.2
 pydantic==2.5.3
+pydantic-settings==2.5.3
 
 # PDF Processing
 pdfplumber==0.11.0
