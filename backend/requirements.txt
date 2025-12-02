@@ -1,0 +1,26 @@
+# Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# GraphQL
+strawberry-graphql[fastapi]==0.219.0
+strawberry-graphql[debug-server]==0.219.0
+
+# Database
+supabase==2.3.4
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# AI
+anthropic==0.18.1
+instructor==0.6.2
+pydantic==2.5.3
+
+# PDF Processing
+pdfplumber==0.11.0
+
+# Utilities
+python-dotenv==1.0.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
